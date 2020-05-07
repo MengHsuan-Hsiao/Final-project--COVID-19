@@ -14,6 +14,8 @@ beautifulsoup4
 
 pandas
 
+(pandas will be installed when installing anaconda)
+
 ```
 pip install requests
 
